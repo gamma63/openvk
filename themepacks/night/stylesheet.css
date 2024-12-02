@@ -224,7 +224,7 @@ a,
 .page_footer .link,
 #profile_link,
 .profile_link {
-    color: #8fb9d8;
+    color: #676869;
 }
 
 .page_footer .link:hover,
@@ -259,7 +259,7 @@ a,
 
 .navigation .edit-button {
     background-color: #0e0b1a !important;
-    color: #7b94c4 !important;
+    color: #000000 !important;
 }
 
 #test-label,
