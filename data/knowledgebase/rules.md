@@ -11,7 +11,7 @@ You can do everything that does not apply to prohibited actions, but they includ
     1. The person has allowed the use of his identity,
     2. The person is an original character belonging to you
 5. Creation of mass mailings in any way,
-6. Creating situations that in any way interfere with the operation of OpenVK,
+6. Creating situations that in any way interfere with the operation of Gamma ID,
 7. The publication and storage on the resource of any content that:
     1. Is illegal in France or your country of residence,
     2. Contains pornographic scenes involving persons under the age of 18,
@@ -20,7 +20,7 @@ You can do everything that does not apply to prohibited actions, but they includ
     5. Contains scenes of inhuman treatment of people or animals,
     6. Violates copyright and related rights,
     7. Violates human rights
-    8. Prevents users from following the rules or from properly using the services provided by the OpenVK project.
+    8. Prevents users from following the rules or from properly using the services provided by the Gamma ID project.
 
 The administration is the highest authority that has the full right to make decisions about disputes that are not described in the rules.
 
@@ -29,8 +29,8 @@ The administration may issue a punishment if users:
 1. Post prohibited content on the pages of other users,
 2. They deceive the administration or tech support agents,
 3. Mislead website users,
-4. Publicly criticize OpenVK or the administration in order to humiliate or insult project participants or its leaders
-5. Banned from official OpenVK chats on Telegram,
+4. Publicly criticize Gamma ID or the administration in order to humiliate or insult project participants or its leaders
+5. Banned from official Gamma ID chats on Telegram,
 6. They do not respect the Project administration or tech support agents.
 
 In case of violation of the rules, the administration can:

@@ -1,6 +1,6 @@
 OpenVK-KB-Heading: Editing notes
 
-OpenVK wiki-markup is basically XHTML1.0 Transitional. The only difference is that we removed tags that are not needed or may harm OpenVK and it's users.
+Gamma ID wiki-markup is basically XHTML1.0 Transitional. The only difference is that we removed tags that are not needed or may harm OpenVK and it's users.
 
 Allowed tags:
 * All headers from level 3 to 6 (h3-h6)
