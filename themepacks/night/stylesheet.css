@@ -245,12 +245,12 @@ a,
 
 .header_navigation .link a,
 .searchOptionName {
-    color: #ffffff;
+    color: #000000;
 }
 
 .header_navigation .link a:hover,
 .home_button_custom {
-    color: #ffffff;
+    color: #000000;
 }
 
 .navigation .link {
