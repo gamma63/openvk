@@ -250,7 +250,7 @@ a,
 
 .header_navigation .link a:hover,
 .home_button_custom {
-    color: #ffffff;
+    color: #000000;
 }
 
 .navigation .link {
@@ -372,7 +372,7 @@ tr.h {
 
 .page_yellowheader span,
 .page_yellowheader a {
-    color: #000000 !important;
+    color: #ffffff !important;
 }
 
 .completeness-gauge,
