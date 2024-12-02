@@ -10,8 +10,7 @@ tmp/*
 !tmp/themepack_artifacts/.gitkeep
 themepacks/*
 !themepacks/.gitkeep
-!themepacks/openvk_modern
-!themepacks/midnight
+!themepacks/night
 storage/*
 !storage/.gitkeep
 

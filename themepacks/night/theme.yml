@@ -1,0 +1,12 @@
+id: night
+version: "0.0.1.0"
+openvk_version: 0
+enabled: 1
+metadata:
+    name:
+        _: "Gamma ID Night"
+        en: "Gamma ID Night"
+        ru: "Gamma ID Ночь"
+        uk: "Gamma ID Нiчь"
+    author: "gamma63 & snus"
+    description: "A dark theme for Gamma ID"
