@@ -245,16 +245,16 @@ a,
 
 .header_navigation .link a,
 .searchOptionName {
-    color: #bcc3d0;
+    color: #000000;
 }
 
 .header_navigation .link a:hover,
 .home_button_custom {
-    color: #c7cdd9;
+    color: #000000;
 }
 
 .navigation .link {
-    color: #d9e0ee;
+    color: #000000;
 }
 
 .navigation .edit-button {
@@ -357,17 +357,17 @@ tr.h {
 
 .page_yellowheader {
     color: #c6d2e8;
-    background-image: url("/themepack/midnight/0.0.3.3/resource/header_purple.png") !important;
+    background-image: url("/themepack/night/0.0.1.0/resource/header_purple.png") !important;
     background-color: #231f34;
     border-color: #231f34;
 }
 
 .page_header {
-    background-image: url("/themepack/midnight/0.0.3.3/resource/header.png") !important;
+    background-image: url("/themepack/night/0.0.1.0/resource/header.png") !important;
 }
 
 .page_custom_header {
-    background-image: url("/themepack/midnight/0.0.3.3/resource/header_custom.png") !important;
+    background-image: url("/themepack/night/0.0.1.0/resource/header_custom.png") !important;
 }
 
 .page_yellowheader span,
