@@ -245,21 +245,21 @@ a,
 
 .header_navigation .link a,
 .searchOptionName {
-    color: #000000;
+    color: #ffffff;
 }
 
 .header_navigation .link a:hover,
 .home_button_custom {
-    color: #000000;
+    color: #ffffff;
 }
 
 .navigation .link {
-    color: #000000;
+    color: #ffffff;
 }
 
 .navigation .edit-button {
     background-color: #0e0b1a !important;
-    color: #000000 !important;
+    color: #ffffff !important;
 }
 
 #test-label,
